@@ -1,0 +1,18 @@
+==================================
+Pair Programming Efficiency Report
+==================================
+
+P1
+==
+
+Time: 						22 hrs
+Code Length:				1200 lines
+Finished Programming:		Day before due date
+Finished Verifying:			Due Date
+
+P2
+==
+Time:						14 hrs
+Code Length:				1100 lines
+Finished Programming:		Day before due date
+Finished Verifying:			Due Date

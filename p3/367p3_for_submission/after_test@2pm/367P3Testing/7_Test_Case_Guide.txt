@@ -1,0 +1,18 @@
+T0: T0 from course website
+T1: T1 from course website
+T2: T2 from course website
+T3: 0 station, 0 train
+T4: 1 station, 0 train
+T5: 1 station, 1 train
+T6: 1 station, 3 train
+
+Report:
+T0 - T2:
+last line
+tab vs. space
+
+T5 - T6 option1 and 2 print empty []
+the empty [] is the same number as the number
+of trains
+
+args[2] wrong result in infinite loop

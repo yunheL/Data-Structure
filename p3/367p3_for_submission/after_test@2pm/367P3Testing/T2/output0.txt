@@ -1,0 +1,9 @@
+0:	Train 1 has exited from station 1.
+10:	Train 1 has been parked at station 2.
+11:	Train 1 has exited from station 2.
+11:	Train 2 has exited from station 1.
+21:	Train 1 has been parked at station 3.
+21:	Train 2 has been parked at station 2.
+22:	Train 2 has exited from station 2.
+32:	Train 2 has been parked at station 3.
+

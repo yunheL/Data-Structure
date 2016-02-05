@@ -1,0 +1,12 @@
+1:	Train 1 has exited from station 1.
+2:	Train 2 has exited from station 1.
+3:	Train 3 has exited from station 1.
+11:	Train 1 has been parked at station 2.
+12:	Train 2 has been parked at station 2.
+15:	Train 2 has exited from station 2.
+15:	Train 1 has exited from station 2.
+15:	Train 3 has been parked at station 2.
+16:	Train 3 has exited from station 2.
+25:	Train 2 has been parked at station 3.
+25:	Train 1 has been parked at station 3.
+26:	Train 3 has been parked at station 3.

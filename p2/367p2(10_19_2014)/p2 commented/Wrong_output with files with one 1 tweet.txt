@@ -1,0 +1,18 @@
+Enter option : unfollow Zach
+Enter option : unfollow Roney
+Enter option : unfollow Chris
+Enter option : print
+34 Yunhe:This is to test what if there two files with only one tweet.
+35 Jim:This is to test file with only one tweet.
+Enter option : unfollow Jim
+Enter option : follow JIm
+Invalid user
+Enter option : follow Jim
+Enter option : print
+34 Yunhe:This is to test what if there two files with only one tweet.
+35 Jim:This is to test file with only one tweet.
+Enter option : unfollow Yunhe
+Enter option : follow Yunhe
+Enter option : print
+35 Jim:This is to test file with only one tweet.
+34 Yunhe:This is to test what if there two files with only one tweet.
